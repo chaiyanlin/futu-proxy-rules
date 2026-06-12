@@ -1,0 +1,8 @@
+# NAME: Futu
+# DESCRIPTION: Futu / Moomoo related domain suffix rules
+# UPDATED: 2026-06-13
+
+DOMAIN-SUFFIX,moomoo.com
+DOMAIN-SUFFIX,futuhn.com
+DOMAIN-SUFFIX,futustatic.com
+DOMAIN-SUFFIX,futunn.com
