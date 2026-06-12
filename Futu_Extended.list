@@ -1,6 +1,5 @@
 # NAME: Futu_Extended
 # DESC: Extended Futu and Moomoo rules, including attribution, push, Tencent IM, and IP-CIDR endpoints
-# SOURCE: Extracted and scoped from blackmatrix7/ios_rule_script issue #1687
 # UPDATED: 2026-06-13
 
 # Futu / Moomoo - attribution and push related endpoints
